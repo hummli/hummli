@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hummli
-- 👀 I’m interested in Web Developmentn and Process Automation
+- 👀 I’m interested in Web Development and Process Automation
 - 🌱 I’m currently learning React, Next JS
 - 💞️ I’m looking to collaborate on cool components
 - 📫 How to reach me: hummli@yahoo.de
